@@ -1,0 +1,1 @@
+{"name":"Local: InterestingRepresentation","url":"c:\\Users\\HP\\Desktop\\CodeChef Problems\\InterestingRepresentation.cpp","tests":[{"id":1632584277920,"input":"3\n1\n8\n135","output":"3 2\n97 89\n1071 936"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\CodeChef Problems\\InterestingRepresentation.cpp","group":"local","local":true}

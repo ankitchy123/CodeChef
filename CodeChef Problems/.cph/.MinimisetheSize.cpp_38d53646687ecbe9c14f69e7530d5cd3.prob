@@ -1,0 +1,1 @@
+{"name":"Local: MinimisetheSize","url":"c:\\Users\\HP\\Desktop\\CodeChef Problems\\MinimisetheSize.cpp","tests":[{"id":1634054134337,"input":"3\n1\n2\n3","output":"1\n1\n2\n1 3\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\CodeChef Problems\\MinimisetheSize.cpp","group":"local","local":true}

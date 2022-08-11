@@ -1,0 +1,1 @@
+{"name":"Local: ElectionChefland","url":"c:\\Users\\HP\\OneDrive\\Desktop\\CodeChef Problems\\ElectionChefland.cpp","tests":[{"id":1642602908775,"input":"3\n80 19 2\n20 55 26\n50 1 50","output":"A\nB\nNOTA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\CodeChef Problems\\ElectionChefland.cpp","group":"local","local":true}
